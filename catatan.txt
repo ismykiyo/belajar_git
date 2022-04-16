@@ -1,0 +1,3 @@
+git init = Init folder
+git log = check log
+git reset = buat rollback
